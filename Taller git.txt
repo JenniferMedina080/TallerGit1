@@ -4,4 +4,4 @@ Prueba 2 - Modificar archivo
 
 Prueba 3 - Subir cambios al repositorio remoto
 
-Prueba 4 - Cambio realizado directamente desde github
+Prueba 4 - Cambio realizado directamente desde GitHub
